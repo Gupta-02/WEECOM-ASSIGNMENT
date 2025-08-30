@@ -2,7 +2,8 @@
 
 A modern, responsive e-commerce dashboard built with React, TypeScript, Vite, and Tailwind CSS. Easily manage products, view analytics, and enjoy a beautiful UI powered by shadcn/ui components.
 
-![Weecom Dashboard Preview](https://user-images.githubusercontent.com/placeholder/dashboard-preview.png)
+<img width="1913" height="914" alt="image" src="https://github.com/user-attachments/assets/482d5385-06ed-4051-a5c5-1594a2ea0945" />
+
 
 ## Features
 - Product management (CRUD)
